@@ -3,7 +3,7 @@ import "./Contenido.css"
 
 function Contenido() {
   return (
-    <div>Contenido</div>
+    <div className='contenido-container'></div>
   )
 }
 

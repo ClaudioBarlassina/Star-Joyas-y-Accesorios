@@ -1,0 +1,89 @@
+.logo{
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px ;
+}
+.logo:hover{
+    box-shadow: 0 0 20px white;
+    transition: 0.3s ease-in-out
+}
+.navbar{
+    background: linear-gradient(91.1deg, rgb(57, 31, 105) -2.3%, rgb(115, 43, 155) 44.4%, rgb(231, 75, 184) 103.4%);
+   box-shadow: 0 0 10px;
+   position: fixed;
+   width: 100%;
+}
+
+.carrito{
+    width: 30px;
+    height: 30px;
+   
+ 
+}
+.span{
+    border: 1px solid black;
+    margin: 3px ;
+ 
+   
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h3{
+    text-shadow: 0 0 10px black;
+}
+h3:hover{
+   text-shadow: 0 0 20px white;
+   transition: 0.3s ease-in-out;
+}
+.titulo-menu{
+    color: white;
+    gap: 10px;
+}
+.titulo-sec{
+    font-family: "Matemasie", sans-serif;
+
+}
+.burger{
+    display: none;
+}
+
+/* alineaciones */
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    /* border: 1px solid black; */
+    justify-content: space-around
+ 
+}
+.logo-navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.menu-botones{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    /* border: 1px solid black; */
+}
+.menu-carrito{
+    display: flex;
+    justify-items: end;
+    /* border: 1px solid black; */
+    margin: 1px;
+    align-items:center;
+    
+}
+.burger{
+    
+ width: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
