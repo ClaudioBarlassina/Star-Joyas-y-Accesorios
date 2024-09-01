@@ -6,10 +6,10 @@ import "./Menu.css";
 
 function Menu() {
 
-  const [Estado, setEstado] = useState("true");
+  const [Estado, setEstado] = useState(false);
 
   function handlerClick() {
-   setEstado(!Estado)
+   setEstado(prevEstado => !prevEstado)
  }
   return (
     <div className="navbar">
@@ -19,7 +19,7 @@ function Menu() {
           <h3>De Compras . Com</h3>
         </div>
       </div>
-      <div className={`menu-botones ${Estado && "show"}`}>
+      <div className={`menu-botones ${Estado ? "show" : ""}`}>
         <a href="">Productos</a>
         <a href="">Contacto</a>
         <a href=""></a>

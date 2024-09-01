@@ -138,12 +138,11 @@ h3:hover {
     gap: 30px;
     align-items: center;
     top: 0px;
-    opacity: 1;
-    z-index: -1;
+   visibility: hidden;
+   
   }
   .menu-botones.show {
     display: flex;
-
     top:95px;
     width: 100%;
     background: linear-gradient(
@@ -155,7 +154,7 @@ h3:hover {
    
     box-shadow: 2px 3px 10px;
     animation: menu-responsive 2s;
-  
+    visibility: visible;
   }
 
   .burger {
