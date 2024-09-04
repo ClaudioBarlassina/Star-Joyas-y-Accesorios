@@ -6,7 +6,7 @@ import contenido from "../../init/contenido.json"
 function Contenido() {
   return (
     <div className="contenido-container">
-        <h4>LO MAS BUSCADO</h4>
+       
       <div className="Contenido-primary">
         {/* {contenido.map{
 
