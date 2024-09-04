@@ -2,17 +2,17 @@ import React from "react";
 import "./Card.css";
 import im from "../../assets/zapatillas.webp";
 
-function Card() {
+function Card({Nombre, Descripcion, Imagen, Import }) {
   return (
     <div className="conteiner-primario">
       <div className="ico">icono</div>
       <div className="conteiner-image">
-        <img className="image" src={im} alt="" />
+        <img className="image" src={Imagen} alt="" />
       </div>
       <div className="description">
-        <h3>Producto</h3>
-        <p className="descr-title">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Culpa
+        <h3>{ Nombre}</h3>
+        <p className="descr-title">{Descripcion
+        }
         </p>
         <div className="conteiner-color-impor">
           <div className="color">
@@ -22,7 +22,7 @@ function Card() {
             <input type="radio" name="Gris" id="" />
           </div>
           <div className="cont-import">
-            <h4 className="import">$09.00</h4>
+            <h4 className="import">{Import}</h4>
           </div>
         </div>
         <div className="Conj-button">
