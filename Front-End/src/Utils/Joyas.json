@@ -1,0 +1,181 @@
+[
+  {
+    "id": "01",
+    "nombre": "Aros Ejemplo 1",
+    "image": "./src/Utils/images.png",
+    "categoria": "Aros",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "02",
+    "nombre": "Aros Ejemplo 2",
+    "image": "./src/Utils/images.png",
+    "categoria": "Aros",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "03",
+    "nombre": "Aros Ejemplo 3",
+    "image": "./src/Utils/images.png",
+    "categoria": "Aros",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "04",
+    "nombre": "Aros Ejemplo 4",
+    "image": "./src/Utils/images.png",
+    "categoria": "Aros",
+    "material": "Acero Blanco",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "00",
+    "nombre": "Aros Ejemplo 5",
+    "image": "./src/Utils/images.png",
+    "material": "Acero Dorado",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "05",
+    "nombre": "Aros Ejemplo 6",
+    "image": "./src/Utils/images.png",
+    "categoria": "Aros",
+    "material": "Acero Dorado",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "06",
+    "nombre": "Cadena Ejemplo 1",
+    "image": "./src/Utils/images.png",
+    "categoria": "Cadena",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "07",
+    "nombre": "Cadena Ejemplo 2",
+    "image": "./src/Utils/images.png",
+    "categoria": "Cadena",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "08",
+    "nombre": "Cadena Ejemplo 3",
+    "image": "./src/Utils/images.png",
+    "categoria": "Cadena",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "09",
+    "nombre": "Cadena Ejemplo 3",
+    "image": "./src/Utils/images.png",
+    "categoria": "Cadena",
+    "material": "Acero Blanco",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "10",
+    "nombre": "Cadena Ejemplo 4",
+    "image": "./src/Utils/images.png",
+    "categoria": "Cadena",
+    "material": "Acero Blanco",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "11",
+    "nombre": "Cadena Ejemplo 5",
+    "image": "./src/Utils/images.png",
+    "categoria": "Cadena",
+    "material": "Acero Dorado",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "12",
+    "nombre": "Anillo Ejemplo 1",
+    "image": "./src/Utils/images.png",
+    "categoria": "Anillo",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "13",
+    "nombre": "Anillo Ejemplo 1",
+    "image": "./src/Utils/images.png",
+    "categoria": "Anillo",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "14",
+    "nombre": "Anillo Ejemplo 1",
+    "image": "./src/Utils/images.png",
+    "categoria": "Anillo",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "15",
+    "nombre": "Anillo Ejemplo 1",
+    "image": "./src/Utils/images.png",
+    "categoria": "Anillo",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "16",
+    "nombre": "Anillo Ejemplo 1",
+    "image": "./src/Utils/images.png",
+    "categoria": "Anillo",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "17",
+    "nombre": "Anillo Ejemplo 1",
+    "image": "./src/Utils/images.png",
+    "categoria": "Anillo",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "18",
+    "nombre": "Anillo Ejemplo 1",
+    "image": "./src/Utils/images.png",
+    "categoria": "Anillo",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  },
+  {
+    "id": "19",
+    "nombre": "Rosario Ejemplo 1",
+    "image": "./src/Utils/images.png",
+    "categoria": "Rosario",
+    "material": "Acero Quirurgico",
+    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
+    "precio": "3000"
+  }
+]
