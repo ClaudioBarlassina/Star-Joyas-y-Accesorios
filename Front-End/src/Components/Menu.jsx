@@ -10,8 +10,11 @@ const Menu = () => {
     
       <img className="logo"src={logo } alt="" />
       <Filtros />
+      <div className='logoCarrito'>
+
       <img src={carrito} className="carrito" alt="" />
       <span className='numero-carrito'>1</span>
+      </div>
     </div>
   )
 }

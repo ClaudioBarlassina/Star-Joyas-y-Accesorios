@@ -1,25 +1,31 @@
-.conteiner{
+.conteiner {
+  display: flex;
+  width: 100%;
+  height: 152px;
+  border: 1px solid gray;
+  justify-content: space-around;
+  align-items: center;
+}
+.logo {
+  width: 150px;
+  height: 150px;
+}
+.carrito {
+  width: 50px;
+  height: 50px;
+}
+.numero-carrito {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  background-color: black;
+  color: white;
+}
+.logoCarrito{
     display: flex;
-    width: 100%;
-    height: 152px;
-    border: 1px solid black;
-}
-.logo{
-    width: 150px;
-    height: 150px;
-}
-.carrito{
-    width: 50px;
-    height: 50px;
-}
-.numero-carrito{
-    display: flex;
-    width: 20px;
-    height: 20px;
-    border: 1px solid black;
     align-items: center;
-    justify-content:center ;
-    border-radius: 50px;
-    background-color: black;
-     color: white;
 }
