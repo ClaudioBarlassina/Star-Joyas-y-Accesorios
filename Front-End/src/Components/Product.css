@@ -26,3 +26,8 @@
 .material{
     margin: 2px;
 }
+@media (width <= 400){
+    .contenedor-product{
+        width: 1fr 1fr;
+    }
+}
