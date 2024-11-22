@@ -28,6 +28,6 @@
 }
 @media (width <= 400){
     .contenedor-product{
-        width: 1fr 1fr;
+       background-color: black;
     }
 }
