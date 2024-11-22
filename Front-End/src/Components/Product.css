@@ -26,8 +26,8 @@
 .material{
     margin: 2px;
 }
-@media(width > 400){
-    .contenedor-product{
-       background-color: black;
+@media (max-width: 400px) {
+    .contenedor-product {
+      background: blue;
     }
-}
+  }
