@@ -3,7 +3,7 @@ import Menu from "./Menu";
 import Product from "./Product";
 import Joyas from "../Utils/Joyas.json"
 import { useFilter } from "../Hook/useFilter";
-import "../Home.css"
+import "./Home.css"
 
 const Home = () => {
 
