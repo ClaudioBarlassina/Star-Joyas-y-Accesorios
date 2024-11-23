@@ -24,3 +24,13 @@
 .material {
   margin: 2px;
 }
+
+@media (max-Width:500px) {
+  .contenedor-product{
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+  
+  
+}
