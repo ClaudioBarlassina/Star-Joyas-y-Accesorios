@@ -26,3 +26,43 @@
 .material{
     margin: 2px;
 }
+
+@media (max-width: 500px ) {
+
+    .contenedor-product{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+        justify-content: center;
+        
+    }
+    .items-Product{
+        width: 150px;
+        height: 200px;
+
+    }
+    .img-item-product{
+        width: 70px;
+        height: 70px;
+    }
+    .nombre{
+        margin: 1px ;
+        font-size: 15px;
+       }
+       .material{
+           margin: 2px;
+           font-size: 10px;
+       }
+       .items-Product button {
+   
+       display: flex;
+       flex-direction: row;
+        width: 100px;
+        height: 30px;
+        font-size: 10px;
+        justify-items: center;
+        align-items: center;
+       
+        
+       }
+    
+}
