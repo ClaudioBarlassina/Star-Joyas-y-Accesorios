@@ -2,7 +2,7 @@
   {
     "id": "01",
     "nombre": "Aros Ejemplo 1",
-    "image": "./src/Utils/images.png",
+    "image": "https://secrecyjewels.es/blog/wp-content/uploads/2022/08/tipo-de-joyas.jpg",
     "categoria": "Aros",
     "material": "Acero Quirurgico",
     "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
@@ -11,7 +11,7 @@
   {
     "id": "02",
     "nombre": "Aros Ejemplo 2",
-    "image": "./src/Utils/images.png",
+    "image": "https://joyasjoseplara.com/1290-large_default/joyas-de-ejemplo.jpg",
     "categoria": "Aros",
     "material": "Acero Quirurgico",
     "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
@@ -20,7 +20,7 @@
   {
     "id": "03",
     "nombre": "Aros Ejemplo 3",
-    "image": "./src/Utils/images.png",
+    "image": "https://secrecyjewels.es/blog/wp-content/uploads/2022/08/tipo-de-joyas.jpg",
     "categoria": "Aros",
     "material": "Acero Quirurgico",
     "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
@@ -29,7 +29,7 @@
   {
     "id": "04",
     "nombre": "Aros Ejemplo 4",
-    "image": "./src/Utils/images.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7GQEr2qs48d4C_ppJ77desAhE6doYzKFpA&s",
     "categoria": "Aros",
     "material": "Acero Blanco",
     "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",

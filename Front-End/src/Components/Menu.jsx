@@ -1,6 +1,6 @@
 import React from 'react'
 import Filtros from "../Components/Filtros"
-import logo from "../Utils/logo.jpg"
+
 import carrito from "../Utils/carrito.png"
 import "../Components/Menu.css"
 
