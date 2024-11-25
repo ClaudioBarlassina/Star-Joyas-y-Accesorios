@@ -9,8 +9,12 @@ const Menu = () => {
     <div className='conteiner'> 
        <button className="hamburger" aria-label="Abrir menú">
     ☰
-  </button>
-      <img className="logo"src={logo } alt="" />
+      </button>
+      <div>
+
+      <h3 className='titulo'>Star</h3>
+      <h4 className='titulo2'>Joyas y Accesorios</h4>
+      </div>
       <div className='filtros'>
       <Filtros />
       </div>
