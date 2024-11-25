@@ -13,7 +13,10 @@ const Home = () => {
 
 
   return <div>
+    <div className="menu">
+
     <Menu />
+    </div>
     <Product data={filtro } />
   </div>;
 };
