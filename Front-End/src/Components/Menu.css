@@ -6,6 +6,9 @@
   justify-content: space-around;
   align-items: center;
 }
+.hamburger{
+  display: none;
+}
 .logo {
   width: 150px;
   height: 150px;
@@ -28,4 +31,36 @@
 .logoCarrito{
     display: flex;
     align-items: center;
+}
+@media (max-Width:500px) {
+  .conteiner{
+   width: 100%;
+   height: 70px;
+  }
+  .logo{
+    width: 50px;
+    height: 50px;
+  }
+  .filtros{
+    display: none;
+  }
+  .carrito {
+    width: 30px;
+    height: 30px;
+  }
+  .numero-carrito {
+    display: flex;
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+  
+  }
+ .hamburger{
+  display: flex;
+ }
 }

@@ -7,9 +7,13 @@ import "../Components/Menu.css"
 const Menu = () => {
   return (
     <div className='conteiner'> 
-    
+       <button className="hamburger" aria-label="Abrir menú">
+    ☰
+  </button>
       <img className="logo"src={logo } alt="" />
+      <div className='filtros'>
       <Filtros />
+      </div>
       <div className='logoCarrito'>
 
       <img src={carrito} className="carrito" alt="" />
