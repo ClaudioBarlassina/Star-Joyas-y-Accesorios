@@ -1,0 +1,26 @@
+.conteiner-general{
+    margin: 10px;
+    padding: 10px;
+}
+.details-organizacion{
+    display: flex;
+    justify-content:space-around ;
+}
+.details-titulo{
+    margin: 1px;
+}
+.details-img{
+    width: 100%;
+}
+.details-conteiner{
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}
+.details-material{
+    margin: 0;
+}
+.details-categoria{
+    margin: 0;
+}
