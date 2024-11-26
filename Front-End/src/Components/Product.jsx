@@ -8,7 +8,7 @@ const Product = ({ data }) => {
   const {filters} = useFilter()
   return (
     <div className="contenedor-product">
-      <h4></h4>
+      
       {/* {JSON.stringify(filters)} */}
       {/* <h2>PRODUCTOS:   {filters.category}</h2>
       <h2>MATERIAL:  {filters.material }</h2> */}

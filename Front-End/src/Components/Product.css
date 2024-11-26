@@ -27,10 +27,31 @@
 
 @media (max-Width:500px) {
   .contenedor-product{
+ padding: 100px;
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 150px 150px;
     justify-items: center;
+    gap: 10px;
   }
-  
+  .items-Product {
+    border: 1px solid gray;
+    width: 150px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+  }
+  .img-item-product {
+    width: 130px;
+    height: 150px;
+    margin-bottom: 10px;
+  }
+  .nombre {
+    font-size: 10px;
+    margin: 2px;
+  }
+ 
   
 }

@@ -168,14 +168,6 @@
     "material": "Acero Quirurgico",
     "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
     "precio": "3000"
-  },
-  {
-    "id": "19",
-    "nombre": "Rosario Ejemplo 1",
-    "image": "./src/Utils/images.png",
-    "categoria": "Rosario",
-    "material": "Acero Quirurgico",
-    "Descripcion": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsum eum facilis expedita recusandae! Quae, nostrum aperiam aspernatur dolorem vel et deleniti rerum iste voluptates deserunt adipisci, totam cupiditate possimus facere?",
-    "precio": "3000"
   }
+  
 ]
