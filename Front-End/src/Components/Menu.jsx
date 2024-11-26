@@ -8,9 +8,11 @@ const Menu = () => {
   return (
     <div className="conteiner">
       <div className="gru-1 ">
-        <button className="hamburger" aria-label="Abrir menú">
-          ☰ 
-        </button>
+        <div className="hamburger-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
         <div>
           <h3 className="titulo">Star</h3>
           <h4 className="titulo2">Joyas y Accesorios</h4>

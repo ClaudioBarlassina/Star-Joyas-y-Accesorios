@@ -1,96 +1,69 @@
-.conteiner {
-  display: flex;
-  width: 100%;
-  /* height: 152px; */
-  align-items: center;
-}
-.titulo {
-  font-family: "Playfair Display", serif;
-  font-size: 100px;
-  margin: 0;
-}
-.titulo2 {
-  margin: 0;
-}
-.hamburger {
-  display: none;
-}
-.logo {
-  width: 150px;
-  height: 150px;
-}
-.carrito {
-  width: 50px;
-  height: 50px;
-}
-.numero-carrito {
-  display: flex;
-  width: 20px;
-  height: 20px;
-  border: 1px solid black;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50px;
-  background-color: black;
-  color: white;
-}
-.logoCarrito {
-  display: flex;
-  align-items: center;
-}
 @media (max-width: 500px) {
   .conteiner {
     width: 100%;
     height: 60px;
+    position: fixed;
     display: flex;
     flex-direction: row;
-  }
-
-  .filtros {
-    display: none;
-  }
-  .carrito {
-    width: 30px;
-    height: 30px;
-    display: flex;
-    justify-content: right;
-  }
-  .numero-carrito {
-    display: flex;
-    width: 10px;
-    height: 10px;
-    border: 1px solid black;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50px;
-    background-color: black;
-    color: white;
-  }
-  .hamburger {
-    display: flex;
-    margin: 10px;
-
-    border: none;
-  }
-  .titulo {
-    font-family: "Playfair Display", serif;
-    font-optical-sizing: auto;
-    font-weight: 600;
-    font-style: italic;
-    font-size: 40px;
-
-    margin: 0;
-    justify-content: start;
-    color: #000;
-    align-items: center;
-  }
-  .titulo2 {
-    display: none;
+    justify-content: space-between;
+     background: rgba(255, 255, 255);
+    /* /* border-radius: 16px; */
+     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1); 
+    /* backdrop-filter: blur(4.6px);
+    -webkit-backdrop-filter: blur(4.6px); */
+     /* border: 1px solid rgba(255, 255, 255, 0.3);   */
+     
   }
   .gru-1 {
     display: flex;
+    flex-direction: row;
+    /* border: 1px solid black; */
+    gap: 20px;
     align-items: center;
-    margin: 5px;
-    width: 70%;
   }
+  .gru-1 .titulo {
+    justify-content: start;
+    justify-items: start;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 608;
+    font-style: italic;
+    font-size: 40px;
+    align-items: center;
+  }
+  .gru-1 .titulo2 {
+    display: none;
+  }
+  .filtros {
+    display: none;
+  }
+  .logoCarrito {
+    
+    margin: 20px;
+  }
+  .carrito {
+    width: 20px;
+    height: 20px;
+  }
+  /* Contenedor del menú hamburguesa */
+.hamburger-menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 15px;
+  height: 10px;
+  cursor: pointer;
+  margin-left: 20px;
+ 
+}
+
+/* Barras horizontales */
+.hamburger-menu span {
+  display: block;
+  height: 2px; /* Grosor de las barras */
+  width: 100%;
+  background-color: #333; /* Color de las barras */
+  border-radius: 2px; /* Esquinas redondeadas */
+  
+}
 }

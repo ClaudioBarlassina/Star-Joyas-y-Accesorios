@@ -19,11 +19,12 @@ const Product = ({ data }) => {
               <img src={item.image} alt="" className="img-item-product" />
             </Link>
           </div>
-          <div>
-            {" "}
+          
+          <div className="items-datos">
             <h3 className="nombre">{item.nombre}</h3>
-          </div>
-          <h5 className="material">{item.material}</h5>
+          
+           <h5 className="precio"> $ {item.precio}</h5> 
+          </div> 
           <button>Agregar al carrito</button>
         </li>
 

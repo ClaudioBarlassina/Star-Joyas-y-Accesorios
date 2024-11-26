@@ -8,8 +8,8 @@ const Landing = () => {
   return (
     <div>
       <Menu />
-      <img src={portada} alt="" className="img-landing" />
       <Link to={"/Home"}>
+      <img src={portada} alt="" className="img-landing" />
         <button>ingresar</button>
       </Link>
     </div>
