@@ -32,19 +32,23 @@
     justify-items: center;
     gap: 10px;
     /* border: 1px solid black; */
+    
   }
   .items-Product {
     /* border: 1px solid black; */
-    width: 200px;
+    width: 180px;
     height: 280px;
     display: flex;
     flex-direction: column;
     align-items:flex-start;
     justify-content: center;
+    margin: 15px;
+    
+    
     
   }
   .img-item-product {
-    width: 200px;
+    width: 180px;
     height: 170px;
   }
   .nombre {
